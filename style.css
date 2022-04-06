@@ -68,7 +68,7 @@ footer{
   background-color: #aaaaaa;
 }
 
-@media screen and (max-width:768px);
+@media screen and (max-width:768px){
 main{
   width: 100%;
   display: block;
@@ -81,4 +81,5 @@ main{
 
 .step-box:last-child{
   margin : 0 auto 0;
+}
 }
